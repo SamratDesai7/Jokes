@@ -4,7 +4,7 @@ let RandomJoke = [Math.floor(Math.random() * 40 )];
 tell = [`Why don't scientists trust atoms? 
     Because they make up everything!`,
 `Why did the scarecrow win an award? 
-Because he was outstanding in his fie,ld!`,
+Because he was outstanding in his field!`,
 
 `How does a penguin build its house? 
  Igloos it together!`,
