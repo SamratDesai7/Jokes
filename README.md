@@ -31,13 +31,6 @@ I built it while learning ES6 JavaScript and the Fetch API as a fun way to pract
 | **CSS 3** | Custom styling & Flexbox responsiveness |
 | **JavaScript (ES6)** | Fetch API, async/await, DOM manipulation (≈63 % of repo) :contentReference[oaicite:1]{index=1} |
 
----
-
-## 📸 Screenshots
-<p align="center">
-  <img src="https://your-screenshot-url-1" alt="App on desktop" width="45%"/>
-  <img src="https://your-screenshot-url-2" alt="App on mobile"  width="45%"/>
-</p>
 
 ---
 
