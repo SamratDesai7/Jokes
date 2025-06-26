@@ -54,6 +54,7 @@ An impasta!`
 , `What do you call an elephant that doesn’t matter? An irrelephant.`
 , `Why was the stadium so cool? Because it was filled with fans.`
 , `What do you get if you cross a snowman and a dog? Frostbite.`
+,`How much do rainbows weigh? Not much. They’re actually pretty light`
 ][RandomJoke]
 
 
